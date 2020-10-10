@@ -1,0 +1,14 @@
+rumus throughput : jumlah paket/waktu pengiriman
+		537/60,077 = 8,93 bit/s
+		8,93x8 = 71,44 kb/s
+
+paket loss =  hanya ada 1
+
+Delay = time2-time1 = 54249186
+	rata rata delay = jumlah delay/jumlah paket-1 =
+			54249186/536 = 101211,1679
+
+jitter = delay2-delay1 = 31728701715
+	rata rata jitter= jumlah jitter/jumlah paket-1 =
+			31728701715/536 = 59195339,02
+
